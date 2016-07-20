@@ -31,8 +31,9 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-Activator>br.com.tests.pswot.gateway.avahi.bundle.Activator</Bundle-Activator>
-                        <Export-Package>*</Export-Package>
+                        <Bundle-Activator>br.com.semanticwot.pswot.gateway.avahi.bundle.Activator</Bundle-Activator>
+                        <Export-Package>avahi4j.*</Export-Package>
+                        <Import-Package>*</Import-Package>
                     </instructions>
                 </configuration>
             </plugin>

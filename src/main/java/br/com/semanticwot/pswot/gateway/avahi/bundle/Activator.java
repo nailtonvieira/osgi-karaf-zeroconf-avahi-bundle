@@ -1,4 +1,4 @@
-package br.com.tests.pswot.gateway.avahi.bundle;
+package br.com.semanticwot.pswot.gateway.avahi.bundle;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
