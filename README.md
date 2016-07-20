@@ -13,6 +13,6 @@ Simple use:
         <dependency>
             <groupId>com.github.nailtonvieira</groupId>
             <artifactId>osgi-karaf-zeroconf-avahi-bundle</artifactId>
-            <version>v0.1</version>
+            <version>0.1.1</version>
         </dependency>
     </dependencies>
