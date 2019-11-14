@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/nailtonvieira/osgi-karaf-zeroconf-avahi-bundle/workflows/JavaCI/badge.svg)](https://github.com/nailtonvieira/osgi-karaf-zeroconf-avahi-bundle/actions)
 
-# Avahi4j for Maven projects - OSGi Bundle
+# OSGi Bundle - Avahi4j for Maven projects
 
 Simple use:
 
